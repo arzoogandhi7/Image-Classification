@@ -1,1 +1,1 @@
-# Recognition-of-objects
+# Visual-object-analyzer
